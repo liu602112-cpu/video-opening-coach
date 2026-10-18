@@ -1,0 +1,6 @@
+interface:
+  display_name: "短视频开头教练"
+  short_description: "给自媒体新手写出能直接念、容易拍、接得住正文的视频开头"
+  default_prompt: "用 $video-opening-coach，根据我的选题写 3 个不同思路的开头，推荐一个，并给我简单拍法和正文下一句。"
+policy:
+  allow_implicit_invocation: true
